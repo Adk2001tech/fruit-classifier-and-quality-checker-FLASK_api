@@ -27,3 +27,13 @@ Link:--> https://fruit-classifier-quality-check.herokuapp.com
 * **Data to train this DNN is collected in (`/data`) folder, which is done with the help of google search and downloading each image from it. This section is more explored in  'Data collection' topic below**
 
 ## Motivation/Purpose
+After completing the 4th course(CNN) of deep learning specialization. I was super excited to implement the knowledge I gained in practical and productional way by doing an **end to end project** with following purposes.
+1. This application/technique can be applied to **material selection procedure** in productional sector of companies making... 
+<ul>
+	<li>Fruit juices</li>
+	<li>Pickles</li>
+	<li>Tomato sauces</li>
+	<li>etc. in commercial scale.</li>
+</ul>
+2.  Want to give enlightenment to beginners in learning flask as well as to train DNN and hypertune it to get better performance !<br>
+3. Want to make more advancement in this project to serve the dealers who work in food checking & transportation, So they can monitor/check the condition of their stock at any time they want.
