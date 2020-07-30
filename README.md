@@ -17,7 +17,8 @@
 ## Demo
 Link:--> https://fruit-classifier-quality-check.herokuapp.com
 <br>
-![https___fruit-classifier-quality-check herokuapp com - Google Chrome 7_30_2020 12_21_27 PM](https://user-images.githubusercontent.com/64481847/88890457-489a0180-d25f-11ea-9a62-8eb19985d987.png)
+![20200730_141741](https://user-images.githubusercontent.com/64481847/88918432-0dabc400-d287-11ea-9be6-8188eca807f0.gif)
+
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
