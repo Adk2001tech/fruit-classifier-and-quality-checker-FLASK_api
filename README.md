@@ -5,7 +5,6 @@
 * [Motivation/Purpose](#Motivation/Purpose)
 * [Technical Aspect](#technical-aspect)
 * [Data collection](#data-collection)
-* [Evaluation matrix](#evaluation-matrix)
 * [Installation](#installation) 
 * [Run](#run)
 * [Deployement on Heroku](#deployement-on-heroku)
@@ -37,3 +36,47 @@ After completing the 4th course(CNN) of deep learning specialization. I was supe
 </ul>
 2.  Want to give enlightenment to beginners in learning flask as well as to train DNN and hypertune it to get better performance !<br>
 3. Want to make more advancement in this project to serve the dealers who work in food checking & transportation, So they can monitor/check the condition of their stock at any time they want.
+
+## Technical Aspect
+#### This project is divided into Four major parts:
+1. Train deep CNN model from **kaggle** on basic and clear images of our targets which I want to classify.
+**Purpose behind this approach is to let our model figure out the basic lines, curves, edges, etc first and then retrain it
+for classifying my target on real world images!!**
+
+2. Retraining model on real world data/images and hypertune it for better performance.
+3. Setting up Frontend for website.
+4. Building and hosting a Flask web app on Heroku(Platform as a service)
+
+## Data collection
+As we know *data* is building block of Data science!<br>
+I had collected around 400+ unique images of fruits and 400+ images of for quality detection. You can download it for your project from 
+(`/data`) folder.<br>
+Below collage shows the data from kaggle site and the data which I had collected.<br>
+PHOTO
+
+## Installation
+The Code is written in Python 3.7 in an anaconda environment. For anaconda instalation click <a href="https://www.anaconda.com/products/individual">here</a>.To make new environment in anaconda run following commands in your **Anaconda Prompt**.
+```
+conda create -n your_env_name python=3.7.x
+```
+## Run
+After successfully creating anaconda environment, install the required packages and libraries by running this command in the project directory after cloning the repository:
+```
+pip install -r requirements.txt
+```
+then by running the following command, it will host this page in your local port and will also give you local link, which you can put in any web browser.
+```
+python app.py
+``` 
+
+## Deployement on Heroku
+Vist <a href="Deployement on Heroku">here</a> for details.
+
+## Directory tree
+------
+
+
+## Technologies Used
+<img target="_blank" src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" width=400>
+<br><img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=270><img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280><img target="_blank" src="https://kazoo.jp/wpkazoo2019/wp-content/uploads/2018/05/bootstrap4.png" width=270>
+
