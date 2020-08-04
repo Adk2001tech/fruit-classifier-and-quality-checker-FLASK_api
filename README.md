@@ -51,8 +51,17 @@ for classifying my target on real world images!!**
 As we know *data* is building block of Data science!<br>
 I had collected around 400+ unique images of fruits and 400+ images of for quality detection. You can download it for your project from 
 (`/data`) folder.<br>
-Below collage shows the data from kaggle site and the data which I had collected.<br>
-PHOTO
+<div class="row">
+  <div class="col">
+     <img target="_blank" src="https://user-images.githubusercontent.com/64481847/89262299-0ac91e80-d64d-11ea-9138-6dd297806f96.jpg" width=400>
+  </div>
+  <div class="col">
+        <img target="_blank" src="https://user-images.githubusercontent.com/64481847/89262116-cf2e5480-d64c-11ea-8157-eef2aea3b817.jpg" width=400>
+  </div>
+</div>
+
+
+
 
 ## Installation
 The Code is written in Python 3.7 in an anaconda environment. For anaconda instalation click <a href="https://www.anaconda.com/products/individual">here</a>.To make new environment in anaconda run following commands in your **Anaconda Prompt**.
