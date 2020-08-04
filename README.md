@@ -14,12 +14,14 @@
 * [License](#license)
 
 ## Demo
-Link:--> https://fruit-classifier-quality-check.herokuapp.com
+Link:<br> https://fruit-classifier-quality-check.herokuapp.com
 <br>
-![20200730_141741](https://user-images.githubusercontent.com/64481847/88918432-0dabc400-d287-11ea-9be6-8188eca807f0.gif)
+<br>
+ <img target="_blank" src="https://user-images.githubusercontent.com/64481847/88918432-0dabc400-d287-11ea-9be6-8188eca807f0.gif" width="800px">
 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
+
 
 ## Overview
 * **Simple Flask app fitted with Deep Conv. neural network model which is able to distinguish between real world images of Apples, Bananas, Oranges with predicting weather the fruit in image is Fresh or Rotten with respective probabilities.**<br>
