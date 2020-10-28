@@ -1,4 +1,4 @@
-# fruit_classifier-with-quality_checker
+# Healthy Fruit Lead App 
 ## Table of Content
 * [Demo](#demo)
 * [Overview](#overview)
